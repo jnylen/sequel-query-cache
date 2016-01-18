@@ -1,4 +1,4 @@
-require_relative './lib/sequel-query-cache/version'
+require_relative './lib/sequel_query_cache/version'
 
 Gem::Specification.new do |s|
   s.name          = 'sequel-query-cache'
