@@ -5,7 +5,7 @@ module Sequel
     module QueryCache
       MAJOR_VERSION = 0
       MINOR_VERSION = 2
-      TINY_VERSION  = 1
+      TINY_VERSION  = 2
       VERSION = [MAJOR_VERSION, MINOR_VERSION, TINY_VERSION].join('.')
 
       def self.version
